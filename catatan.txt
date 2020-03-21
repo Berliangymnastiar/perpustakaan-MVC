@@ -8,3 +8,7 @@ Flowchart mymvc
 4. Menghilangkan tanda (/) diakhir URL menggunakan fungsi (rtrim)
 5. Mencegah URL dari karakter-karakter aneh dengan menggunakan fungsi filter_var(..., FILTER_SANITIZE_URL); 
 6. memecah URL dengan menggunakan fungsi explode
+
+3. CONTROLLER
+1. Membuat controller, method, serta params default
+2. Membuat file About.php difolder controllers
