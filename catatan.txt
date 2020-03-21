@@ -1,0 +1,10 @@
+Flowchart mymvc
+1. PERSIAPAN
+
+2. ROUTING
+1. Bootstraping atau mengkoneksikan beberapa folder menjadi satu koneksi
+2. Pretty URL / Membuat URL default-nya
+3. Menulis ulang URL-nya supaya rapih dgn menggunakan .htaccess
+4. Menghilangkan tanda (/) diakhir URL menggunakan fungsi (rtrim)
+5. Mencegah URL dari karakter-karakter aneh dengan menggunakan fungsi filter_var(..., FILTER_SANITIZE_URL); 
+6. memecah URL dengan menggunakan fungsi explode
